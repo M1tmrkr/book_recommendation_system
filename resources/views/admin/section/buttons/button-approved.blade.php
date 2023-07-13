@@ -1,0 +1,1 @@
+<button type="button" data-id="{{ $row->id }}" onclick="approve(this)" id="approved" data-original-title="Approved" data-toggle="tooltip" class="btn btn-primary btn-xs approved" style="cursor:pointer;"><i class="fa fa-paper-plane"></i>&nbsp;स्वीकार गर्नुस्</button>

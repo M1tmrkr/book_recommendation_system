@@ -1,0 +1,1 @@
+<a href="{{ URL::route($_base_route.'.view_my_application', ['unique_id' => $row->unique_id]) }}"><button type="button" data-original-title="Reports" data-toggle="tooltip" class="btn btn-success btn-xs" style="cursor:pointer;"><i class="fa fa-print"></i>&nbsp;प्रिन्ट गर्नुहोस्</button></a>

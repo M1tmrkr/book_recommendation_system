@@ -1,0 +1,1 @@
+<a href="javascript:void(0)"  class="btn btn-dark btn-xs user" data-id="{{ $row->id }}" data-whatever="@mdo" data-toggle="modal" data-target="#exampleModal"><i class="fa fa-calendar"></i> सुचारु गर्नुस्</a>
